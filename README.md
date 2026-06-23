@@ -1,8 +1,8 @@
-# FitAura
+FitAura
 
 FitAura is an AI-powered health and fitness management platform designed to provide personalized diet plans, workout recommendations, BMI tracking, and nutrition analysis. The system combines Artificial Intelligence and Machine Learning techniques to help users achieve their health and fitness goals efficiently.
 
-## 📌 Project Overview
+Project Overview
 
 FitAura offers a complete wellness ecosystem by integrating:
 
@@ -17,7 +17,7 @@ FitAura offers a complete wellness ecosystem by integrating:
 
 The platform aims to simplify fitness management while delivering intelligent and data-driven health recommendations.
 
-## 🚀 Features
+Features
 
 - User Registration and Authentication
 - BMI Calculation and Health Monitoring
@@ -30,30 +30,24 @@ The platform aims to simplify fitness management while delivering intelligent an
 - Trainer and Gym Management
 - Secure User Data Management
 
-## 🛠️ Technologies Used
-
-### Frontend
+Technologies Used
+Frontend
 - Flutter / React
 - HTML
 - CSS
 - JavaScript
-
-### Backend
+Backend
 - Python
 - Django / FastAPI
-
-### Database
+Database
 - MySQL / PostgreSQL
-
-### AI & Machine Learning
+AI & Machine Learning
 - TensorFlow
 - PyTorch
 - CNN
 - YOLO
 - NLP Models
-
-## 📂 Project Modules
-
+Project Modules
 1. User Module
 2. Admin Module
 3. Trainer Module
@@ -63,36 +57,23 @@ The platform aims to simplify fitness management while delivering intelligent an
 7. Chatbot Module
 8. Progress Tracking Dashboard
 
-## 🎯 Objectives
-
+Objectives
 - Provide personalized fitness guidance.
 - Improve nutrition tracking through AI.
 - Deliver adaptive workout and diet plans.
 - Enable seamless interaction between users, trainers, gyms, and nutritionists.
 - Promote healthier lifestyles through data-driven insights.
-
-## 🔒 Security
-
+Security
 - Secure Authentication
 - Encrypted Data Storage
 - User Consent-Based Data Sharing
 - Privacy-Focused Design
-
-## 📖 Future Enhancements
-
+Future Enhancements
 - Wearable Device Integration
 - Real-Time Health Monitoring
 - Advanced AI Recommendations
 - Community Fitness Challenges
 - Telehealth and Expert Consultation Features
-
-## 👨‍💻 Team Members
-
-- Muhammed Ashbin K
-- Muhammed Nihal
-- Gulam Hadhiq
-- Sonu Ishan
-
-## 📄 License
+License
 
 This project was developed as part of the Bachelor of Technology (Computer Science and Engineering) program at KMCT College of Engineering.
